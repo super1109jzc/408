@@ -1,0 +1,4 @@
+﻿  1.c
+D:\数据结构实验\单链表\text1\1.c(127,22): warning C4047: “函数”:“ElemType *”与“int **”的间接级别不同
+D:\数据结构实验\单链表\text1\1.c(127,20): warning C4024: “DelList”: 形参和实参 3 的类型不同
+  text1.vcxproj -> D:\数据结构实验\单链表\text1\Debug\text1.exe

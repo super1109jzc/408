@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Desktop\资料\数据结构\华农新版数据结构\串\text1\Debug\text1.exe
+C:\Users\Lenovo\Desktop\资料\数据结构\华农新版数据结构\串\text1\Debug\text1.pdb
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text1\Debug\text1.exe
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text1\Debug\text1.pdb

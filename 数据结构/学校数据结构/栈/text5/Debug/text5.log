@@ -1,0 +1,9 @@
+﻿  5.c
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\5.c(53,16): warning C4013: “strlen”未定义；假设外部返回 int
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\5.c(197,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\5.c(212,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\5.c(219,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\5.c(226,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\5.c(229,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\5.c(186): warning C4715: “Compare”: 不是所有的控件路径都返回值
+  text5.vcxproj -> C:\Users\Lenovo\Desktop\数据结构实验\栈\text5\Debug\text5.exe

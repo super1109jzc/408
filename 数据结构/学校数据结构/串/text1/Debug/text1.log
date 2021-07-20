@@ -1,0 +1,6 @@
+﻿  1.c
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text1\1.c(90,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text1\1.c(91,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text1\1.c(92,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text1\1.c(93,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  text1.vcxproj -> C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text1\Debug\text1.exe

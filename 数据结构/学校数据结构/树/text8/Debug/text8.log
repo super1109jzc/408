@@ -1,0 +1,6 @@
+﻿  8.c
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text8\8.c(26,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text8\8.c(88,14): warning C4098: “xunzhao”:“void”函数返回值
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text8\8.c(112,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text8\8.c(101): warning C4700: 使用了未初始化的局部变量“y”
+  text8.vcxproj -> C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text8\Debug\text8.exe

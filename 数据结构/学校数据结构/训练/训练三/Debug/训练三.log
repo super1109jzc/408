@@ -1,0 +1,6 @@
+﻿  4.c
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\训练\训练三\4.c(20,14): warning C4101: “a”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\训练\训练三\4.c(61,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\训练\训练三\4.c(65,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\训练\训练三\4.c(58,14): warning C4101: “L”: 未引用的局部变量
+  训练三.vcxproj -> C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\训练\训练三\Debug\训练三.exe

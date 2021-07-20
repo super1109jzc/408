@@ -1,0 +1,6 @@
+﻿  1234.c
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text1.2.3.4\1234.c(96,16): warning C4101: “m”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text1.2.3.4\1234.c(158,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text1.2.3.4\1234.c(162,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text1.2.3.4\1234.c(168,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  text1.2.3.4.vcxproj -> C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text1.2.3.4\Debug\text1.2.3.4.exe

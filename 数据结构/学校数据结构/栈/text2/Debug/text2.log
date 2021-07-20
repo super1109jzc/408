@@ -1,0 +1,6 @@
+﻿  2.c
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text2\2.c(66,17): warning C4047: “函数”:“SeqStack *”与“sqStack *”的间接级别不同
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text2\2.c(66,15): warning C4024: “InitStack”: 形参和实参 1 的类型不同
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text2\2.c(68,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text2\2.c(70,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  text2.vcxproj -> C:\Users\Lenovo\Desktop\数据结构实验\栈\text2\Debug\text2.exe

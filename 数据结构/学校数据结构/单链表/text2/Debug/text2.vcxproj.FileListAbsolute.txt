@@ -1,0 +1,4 @@
+D:\数据结构实验\单链表\text2\Debug\text2.exe
+D:\数据结构实验\单链表\text2\Debug\text2.pdb
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text2\Debug\text2.exe
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text2\Debug\text2.pdb

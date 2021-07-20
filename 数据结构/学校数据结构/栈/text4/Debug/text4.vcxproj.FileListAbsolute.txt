@@ -1,0 +1,2 @@
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text4\Debug\text4.exe
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text4\Debug\text4.pdb

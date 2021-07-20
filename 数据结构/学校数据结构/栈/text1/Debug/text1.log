@@ -1,0 +1,9 @@
+﻿  1.c
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\1.c(72,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\1.c(117,17): warning C4047: “函数”:“SeqStack *”与“sqStack *”的间接级别不同
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\1.c(117,15): warning C4024: “InitStack”: 形参和实参 1 的类型不同
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\1.c(116,15): warning C4101: “ch2”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\1.c(116,20): warning C4101: “x”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\1.c(116,10): warning C4101: “ch1”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\1.c(46): warning C4715: “getTops”: 不是所有的控件路径都返回值
+  text1.vcxproj -> C:\Users\Lenovo\Desktop\数据结构实验\栈\text1\Debug\text1.exe

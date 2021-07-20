@@ -1,0 +1,21 @@
+﻿  3.c
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(75,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(79,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(112,54): warning C4133: “=”: 从“strnode *”到“headnode *”的类型不兼容
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(114,64): warning C4133: “=”: 从“headnode *”到“strnode *”的类型不兼容
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(96,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(103,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(143,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(147,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(184,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(191,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(178,15): warning C4101: “t”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(178,20): warning C4101: “r”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(242,19): warning C4477: “scanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(224,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(231,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(242,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(217,19): warning C4101: “q”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(218,15): warning C4101: “t”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\3.c(218,20): warning C4101: “r”: 未引用的局部变量
+  text3.vcxproj -> C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\串\text3\Debug\text3.exe

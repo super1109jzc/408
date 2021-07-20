@@ -1,0 +1,5 @@
+﻿  6.c
+D:\数据结构实验\单链表\text6\6.c(22,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\单链表\text6\6.c(81,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\数据结构实验\单链表\text6\6.c(74,9): warning C4101: “m”: 未引用的局部变量
+  text6.vcxproj -> D:\数据结构实验\单链表\text6\Debug\text6.exe

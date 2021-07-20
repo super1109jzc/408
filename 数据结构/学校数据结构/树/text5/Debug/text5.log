@@ -1,0 +1,6 @@
+﻿  5.c
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text5\5.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text5\5.c(136,9): warning C4101: “e”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text5\5.c(134,11): warning C4101: “p”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text5\5.c(136,6): warning C4101: “x”: 未引用的局部变量
+  text5.vcxproj -> C:\Users\Lenovo\Desktop\重要资料\数据结构\华农新版数据结构\树\text5\Debug\text5.exe

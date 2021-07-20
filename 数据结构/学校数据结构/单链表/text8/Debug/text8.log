@@ -1,0 +1,11 @@
+﻿  8.c
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(23,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(40,14): warning C4101: “tmp”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(40,30): warning C4101: “s”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(69,9): warning C4101: “left”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(70,18): warning C4101: “t2”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(70,14): warning C4101: “t1”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(69,22): warning C4101: “s”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(69,15): warning C4101: “right”: 未引用的局部变量
+C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\8.c(70,22): warning C4101: “t3”: 未引用的局部变量
+  text8.vcxproj -> C:\Users\Lenovo\Desktop\数据结构实验\单链表\text8\Debug\text8.exe
